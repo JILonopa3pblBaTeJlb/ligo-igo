@@ -4,8 +4,14 @@
 Состав пакета:
 
 khooylowbot.py
+
 archivarius.py
+
 capibarakoroed.py
+    image1.jpg
+    image2.jpg
+    image3.jpg
+    video.mp4
 
 Инструкция по применению:
 
